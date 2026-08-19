@@ -15,58 +15,60 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Cybersecurity Specialist – GRC</h4>
+                <h5>Network Intelligence · Pune</h5>
               </div>
               <h3>NOW</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Apr 2026 – Present. Leading PCI DSS v4.0.1, HITRUST CSF, and
+              ISO/IEC 27001 engagements as a certified PCI QSA—CDE scoping,
+              gap assessments, remediation planning, and ROC/AOC preparation
+              for payments, fintech, and healthcare clients.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>Senior Cybersecurity Analyst</h4>
+                <h5>Network Intelligence</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2025–26</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Apr 2025 – Mar 2026. HITRUST e1/i1/r2 assessments on the
+              MyCSF platform, DORA and SWIFT CSP gap assessments, and
+              regulatory audits against NPCI, SEBI CSCRF, and RBI IT
+              Framework requirements for BFSI clients.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Cyber Security Analyst</h4>
+                <h5>Network Intelligence · Bengaluru</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2023–25</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Mar 2023 – Mar 2025. Built the foundation across PCI PIN, PCI
+              3DS, and ISO/IEC 27001 ISMS work—gap assessments, risk
+              registers, and audit support across information security
+              consulting engagements.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>Martian Intern</h4>
+                <h5>Persistent Systems</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2022</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              May 2022 – Jun 2022. Software engineering internship under
+              Persistent Systems' "Martian" program, prior to transitioning
+              into cybersecurity and GRC consulting.
             </p>
           </div>
         </div>

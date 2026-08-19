@@ -87,20 +87,21 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>AI & AUTOMATION</h3>
-              <h4>Workflow Intelligence for Organizations</h4>
+              <h3>GRC &amp; COMPLIANCE</h3>
+              <h4>Payment Security &amp; Regulatory Assurance</h4>
               <p>
-                AI specialist helping organizations automate workflows—internal ops
-                and customer-facing—so teams ship faster with less manual work.
+                Leading gap assessments, ISMS implementation, and audit
+                readiness for banks, payment processors, fintechs, and
+                healthcare clients as a certified PCI QSA.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">LLMs &amp; agents</div>
-                <div className="what-tags">Workflow design</div>
-                <div className="what-tags">RAG &amp; retrieval</div>
-                <div className="what-tags">Evals &amp; guardrails</div>
-                <div className="what-tags">Integrations</div>
-                <div className="what-tags">Product strategy</div>
+                <div className="what-tags">PCI DSS v4.0.1</div>
+                <div className="what-tags">HITRUST CSF</div>
+                <div className="what-tags">ISO/IEC 27001:2022</div>
+                <div className="what-tags">DORA &amp; SWIFT CSP</div>
+                <div className="what-tags">ROC/AOC Preparation</div>
+                <div className="what-tags">RBI · SEBI · NPCI</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -124,21 +125,21 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BUILD &amp; SCALE</h3>
-              <h4>Shipping AI in Production</h4>
+              <h3>CLOUD &amp; SECURITY ENGINEERING</h3>
+              <h4>Risk, Cloud &amp; Technical Controls</h4>
               <p>
-                I build the systems behind it: APIs, data, voice/real-time, and
-                full-stack products—production-ready, not slide decks.
+                Grounding compliance work in the technical layer—risk
+                registers, cloud posture, and the encryption and monitoring
+                controls that assessments actually test against.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Python</div>
-                <div className="what-tags">REST &amp; real-time APIs</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Cloud &amp; infra</div>
+                <div className="what-tags">AWS · Azure · GCP</div>
+                <div className="what-tags">SIEM &amp; IDS/IPS</div>
+                <div className="what-tags">PKI &amp; Encryption</div>
+                <div className="what-tags">Risk Registers</div>
+                <div className="what-tags">Gap Assessments</div>
+                <div className="what-tags">Policy Development</div>
               </div>
               <div className="what-arrow"></div>
             </div>

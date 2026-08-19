@@ -5,32 +5,39 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "HITRUST CSF Assessments",
+    category: "e1 · i1 · r2 Validated Assessments",
+    tools: "MyCSF Scoping, Gap Assessment, CAP Development, Healthcare & Health-Tech",
+    image: "/images/engagements/hitrust.svg",
+    link: "https://www.linkedin.com/in/yashraj-singh-solanki",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "PCI DSS v4.0.1",
+    category: "QSA-Led Assessments · ROC & AOC",
+    tools: "CDE Scoping, Gap Assessment, Remediation Support, Payments Clients",
+    image: "/images/engagements/pcidss.svg",
+    link: "https://www.linkedin.com/in/yashraj-singh-solanki",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
+    title: "ISO/IEC 27001:2022 ISMS",
+    category: "Certification & Ongoing Maintenance",
+    tools: "Risk Registers, Surveillance Audits, Continual Improvement",
+    image: "/images/engagements/iso27001.svg",
+    link: "https://www.linkedin.com/in/yashraj-singh-solanki",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "DORA & SWIFT CSP",
+    category: "Digital Operational Resilience & SWIFT Security",
+    tools: "ICT Risk Management, Incident Reporting, Third-Party Risk, CSP Controls",
+    image: "/images/engagements/dora-swift.svg",
+    link: "https://www.linkedin.com/in/yashraj-singh-solanki",
+  },
+  {
+    title: "Regulatory Audits",
+    category: "NPCI · SEBI CSCRF · RBI IT Framework",
+    tools: "UPI & Digital Payments, Commodity Exchange, BFSI Compliance",
+    image: "/images/engagements/regulatory.svg",
+    link: "https://www.linkedin.com/in/yashraj-singh-solanki",
   },
 ];
 
@@ -64,7 +71,7 @@ const Work = () => {
     <div className="work-section" id="work">
       <div className="work-container section-container">
         <h2>
-          My <span>Work</span>
+          Key <span>Engagements</span>
         </h2>
 
         <div className="carousel-wrapper">
