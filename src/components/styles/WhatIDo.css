@@ -391,3 +391,16 @@
     line-height: 6.8rem;
   }
 }
+
+/* Devices with no hover capability (touch) can't rely on :hover, and the
+   tap-to-reveal JS handler depends on GSAP's touch detection at mount time,
+   which isn't reliable everywhere — so just show the content by default. */
+@media (hover: none) {
+  .what-content h5,
+  .what-content-flex {
+    opacity: 1;
+  }
+  .what-content {
+    min-height: 67%;
+  }
+}
