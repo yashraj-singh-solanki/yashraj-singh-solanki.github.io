@@ -37,7 +37,7 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/Yashraj0703"
+              href="https://github.com/yashraj-singh-solanki"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
