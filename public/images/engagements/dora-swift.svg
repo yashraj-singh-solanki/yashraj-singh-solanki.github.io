@@ -12,6 +12,6 @@
   <rect width="1200" height="750" fill="url(#grid)"/>
   <circle cx="1080" cy="120" r="220" fill="rgba(255,255,255,0.04)"/>
   <text x="90" y="365" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" fill="#ffffff" letter-spacing="1">DORA · SWIFT</text>
-  <text x="90" y="430" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="400" fill="rgba(255,255,255,0.75)" letter-spacing="2">RESILIENCE & CSP</text>
+  <text x="90" y="430" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="400" fill="rgba(255,255,255,0.75)" letter-spacing="2">RESILIENCE &amp; CSP</text>
   <rect x="90" y="460" width="90" height="6" fill="#ffffff" opacity="0.8"/>
 </svg>
